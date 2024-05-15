@@ -256,4 +256,22 @@ main button:hover {
         flex-direction: row;
     }
 
+    strong,p,span{
+        font-size: 20px;
+        color: black;
+    }
+
+    #discos{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    input{
+        width: 200px;
+        height: 50px;
+    }
+
 }

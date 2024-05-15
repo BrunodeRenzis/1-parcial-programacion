@@ -16,12 +16,12 @@
 
 ## Consigna del trabajo
 
-- Se le pide crear un programa usando código **JavaScript** que permita cargar los datos de discos de una colección e ir mostrando un listado de estos.
 
 - Este parcial es **DOMICILIARIO**, **INDIVIDUAL** o **GRUPAL DE A 2 (DOS) PERSONAS**.
 
 - De no aprobarse/presentarse la entrega, se pasará a un recuperatorio al final del cuatrimestre.
 
+- Se le pide crear un programa usando código **JavaScript** que permita cargar los datos de discos de una colección e ir mostrando un listado de estos.
 - Cada alumno debe comenzar con el contenido de este repositorio:
 
     - [index.html](index.html): contiene la estructura básica del parcial, incluidos los botones que ya están llamando a las funciones necesarias para la acción del código. Tiene un _div_ para volcar los discos que se quieran mostrar. Se puede modificar libremente.
